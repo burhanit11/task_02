@@ -1,0 +1,24 @@
+.home {
+  /* background-image: url("../../assets/images/Rectangle\ 18803.png"); */
+  /* background: linear-gradient("#0000000", " #000000"); */
+  /* background: linear-gradient(to bottom right, #3a3945 70%, #3a3945 30%); */
+
+  /* background-image: url("../../assets/svg/Rectangle\ 18803.svg"); */
+
+  background: linear-gradient(to bottom right, #000000 100%, #000000 0%);
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 100% 100%;
+  min-height: 100vh;
+  width: 100%;
+}
+
+.hero {
+  background-image: url("../../assets/images/heroImg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 53% 53%;
+  min-height: 100vh;
+  width: 100%;
+}
